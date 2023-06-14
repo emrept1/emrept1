@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Samed Emre</h1>
 <h3 align="center">I am a cyber security analyst trying to improve myself at the Blue Team and Security Operations Center!</h3>
 
+<img align="right" alt="Coding" width="350" src="https://binary.ninja/blog/images/debugger.gif">
+
 - 🔭 Cyber Security Analyst with background in Incident Detection & Response, Threat Hunting, SIEM solutions **, and Phishing/Spam Investigation.**
 
 - 🌱 I am working on improving my skills. I will try to share information here as part of my learning journey for **Blue Team.**
@@ -8,6 +10,7 @@
 - 📝 I write cybersecurity articles on [https://medium.com/@kayaalp50](Medium.)
 
 - 📫 How to reach me **kayaalp50@outlook.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
