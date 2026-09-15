@@ -9,7 +9,7 @@
 
 - 🌱 I am working on improving my skills. I will try to share information here as part of my learning journey for **Blue Team.**
 
-- 📝 I write cybersecurity articles on [https://medium.com/@kayaalp50](Medium.)
+
 
 - 📫 How to reach me **kayaalp50@outlook.com**
 
